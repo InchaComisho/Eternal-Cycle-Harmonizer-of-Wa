@@ -2,6 +2,8 @@
 
 **A Civilization-Tuning Action RPG About Building a Sustainable World**
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 **Author:** Master (inchacomisho / inchacomusho)  
 **AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)  
 **Published:** 2026  
