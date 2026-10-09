@@ -1,5 +1,7 @@
 # 🎮 Eternal Cycle — Harmonizer of Wa —
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 **A Civilization-Tuning Action RPG About Building a Sustainable World**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
